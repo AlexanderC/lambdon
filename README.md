@@ -1,4 +1,4 @@
-# Lambdon is you AWS Lambda debugging companion
+# Lambdon is your AWS Lambda debugging companion
 
 This tool is focused on `AWS`'s `Lambda` functions debugging including integrations with `AWS`'s `Api Gateway`.
 What it basically does is displaying the `Cloud Watch Logs` latest entries in terminal, just like `tail`.
